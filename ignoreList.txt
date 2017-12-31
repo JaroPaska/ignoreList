@@ -6,4 +6,3 @@ skybullet
 cry
 god2.0
 sigmaforce
-phy
