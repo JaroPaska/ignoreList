@@ -29,4 +29,3 @@ vertical
 first
 ozcan
 vinai
-Y
